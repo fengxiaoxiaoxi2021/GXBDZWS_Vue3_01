@@ -1,6 +1,6 @@
 # GXBDZWS_Vue3_01
 项目描述： 
-         是一个前端工程，vue3+elementplus  ； 实验； 没有全部源码；
+         是一个前端工程，vue3+elementplus  ； 实验； 没有源码；
 
 
 
